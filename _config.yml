@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://shabazz33.github.io
+title: shabby
+email: shabazz33@yahoo.com
+author: shabazz33
+description: shabbygithhub
+paginate: 5
+google_analytics: 
